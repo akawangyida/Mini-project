@@ -1,1 +1,1 @@
-# BUPT-mini-project
+# Mini-project
